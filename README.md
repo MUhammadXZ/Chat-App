@@ -18,7 +18,7 @@ Chat-App is a real-time messaging application designed to provide seamless commu
 - **Spring Boot:** Back-end framework for building robust and scalable applications.
 - **MongoDB:** NoSQL database for efficient data storage.
 - **Kafka:** Distributed streaming platform for message brokering.
-- **JUnit:** Testing framework for comprehensive unit testing.
+
 
 
 **Getting Started**
